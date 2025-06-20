@@ -443,5 +443,200 @@
         "title": "Open Next for Cloudflare SSRF Vulnerability Let Attackers Load Remote Resources from Arbitrary Hosts - CyberSecurityNews",
         "url": "https://cybersecuritynews.com/open-next-for-cloudflare-ssrf-vulnerability/",
         "published_at": "2025-06-19T08:49:22Z"
+    },
+    {
+      "title": "Veeam: Faille RCE 💾, Adecco: procès 70k victimes ⚖️, Sorbonne: 32k Comptes Volés 🎓",
+      "url": "https://veillecyber.fr/veeam-faille-rce-bank-sepah-cyberattaque-sorbonne-32k-comptes-voles-2/",
+      "published_at": "Thu, 19 Jun 2025 04:47:07 GMT"
+    },
+    {
+      "title": "RadioCSIRT – Votre actu Cybersécurité du Jeudi 19 Juin (Ép. 328)",
+      "url": "https://www.youtube.com/watch?v=hmvgvhjestk",
+      "published_at": "Thu, 19 Jun 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Votre CyberLettre  - CyberLettre 356 - 19th Jun 2025",
+      "url": "https://cyberveille.curated.co/issues/356",
+      "published_at": "Thu, 19 Jun 2025 09:00:00 +0200"
+    },
+    {
+      "title": "Corruption en Asie : une société de cybersécurité basée en France accepte de payer une amende de 16 millions d’euros contre l’abandon des poursuites - L'Indépendant",
+      "url": "https://news.google.com/rss/articles/cbmiogjbvv95cuxnzzhgbdf0aw1jcgmwdtnebjf5wjg2cvzkavhfswjvy0dmq1jquzrdvkpwmmfmrtlubgxzzmgwef9hsm80sdzbbwnvww9mv3fqz1pztmjia1j3cffcqzvobmfsbklhevhomf9juw8ydxhuwhlcve8zzezot1p3m0txrnfjsf9qd2xjeejbzfnstxk1vno3nvrdmhzjzvhxnkgya3mtaeloztfiyxi3sjfjqmpqzhatwer1btdrevvkm0znvuhoqwm4u1atag1wv3k4b1b0bs1lbzdkdzdxyvhxyte2s0thcwjoqm41ddrpnzb1dfzpmlb6adbgduuwekziq2tfyvvowgnpowy4lwhos2thogjkam1ooulurev6vwrmqq?oc=5",
+      "published_at": "Thu, 19 Jun 2025 15:23:00 GMT"
+    },
+    {
+      "title": "Cour des comptes : les coûts de NIS 2 sont sans commune mesure avec ceux d'une cyberattaque - Solutions-Numeriques",
+      "url": "https://news.google.com/rss/articles/cbmixafbvv95cuxovfpibkrmvtncuzfbwjlkcwytmmhtsvfjegthyxfhmtdyblf5ykpzlwvzmenvuet1qlbry0jcowrhehhzwev3z0nsbzrcr2jitxplnlfrrknkd2zjdkvzs2hhb2ytd2m1ckjaelzscu9sauj1edzuzvu0qwnruth5vgxuuzfvzkl6ugjrwk82m0phr0xrvhnwatb1zkdvmxdkswlrwxkwcgi1ytq1qzhjbtdomg5bnffzc1vqdvixvxduatnu?oc=5",
+      "published_at": "Thu, 19 Jun 2025 10:01:07 GMT"
+    },
+    {
+      "title": "Piratage satellite, drones IA et hackers : Israël déploie son arsenal \"cyberguerre\" face à l'Iran - BFMTV",
+      "url": "https://news.google.com/rss/articles/cbmi6gfbvv95cuxncem4y1leanfjdu01nl9ayzdpqtbnmzjqtfazx2lzu01mne1sbeltn2tay3rlnnlkegmtegfyznaztkswz25ioum4a19rwfpws2vplvf0agd0r0e1zme3mfhvazy3z3bwzvlslwtuwxjvrknymtm0zxhzdff6whzga1jaskpndgnwskjwuu9uwjfftghkdtdrqxvyegnpznzweelpmkviewzibxvsd0lln2lst3zfmxnlynrkynnvvw5or29scvhtzzf1etnmym9qr1qxbeftbflptm1sddrubtzpmni1u2tvmnc?oc=5",
+      "published_at": "Thu, 19 Jun 2025 11:48:37 GMT"
+    },
+    {
+      "title": "Linux - CVE-2025-6020",
+      "url": "https://cyberveille.esante.gouv.fr/alertes/linux-cve-2025-6020-2025-06-19",
+      "published_at": "Thu, 19 Jun 2025 03:56:29 +0000"
+    },
+    {
+      "title": "Linux - CVE-2025-6019",
+      "url": "https://cyberveille.esante.gouv.fr/alertes/linux-cve-2025-6019-2025-06-19",
+      "published_at": "Thu, 19 Jun 2025 03:56:29 +0000"
+    },
+    {
+      "title": "Microsoft - CVE-2025-47957",
+      "url": "https://cyberveille.esante.gouv.fr/alertes/microsoft-cve-2025-47957-2025-06-19",
+      "published_at": "Thu, 19 Jun 2025 03:56:29 +0000"
+    },
+    {
+      "title": "ClamAV - CVE-2025-20260",
+      "url": "https://cyberveille.esante.gouv.fr/alertes/clamav-cve-2025-20260-2025-06-19",
+      "published_at": "Thu, 19 Jun 2025 03:56:29 +0000"
+    },
+    {
+      "title": "Cisco - CVE-2025-20271",
+      "url": "https://cyberveille.esante.gouv.fr/alertes/cisco-cve-2025-20271-2025-06-19",
+      "published_at": "Thu, 19 Jun 2025 03:56:29 +0000"
+    },
+    {
+      "title": "En réponse à l'escalade des tensions avec Israël, l'Iran a commencé à restreindre l'accès à l'internet et envisage de se déconnecter complètement de l'internet mondial pour empêcher les cyberattaques",
+      "url": "https://reseau.developpez.com/actu/373082/en-reponse-a-l-escalade-des-tensions-avec-israel-l-iran-a-commence-a-restreindre-l-acces-a-l-internet-et-envisage-de-se-deconnecter-completement-de-l-internet-mondial-pour-empecher-les-cyberattaques/",
+      "published_at": "Thu, 19 Jun 2025 12:53:00 +0200"
+    },
+    {
+      "title": "Le groupe russe APT29 exploite les mots de passe de l’application Gmail pour contourner l’authentification à deux facteurs (2FA) dans une campagne de phishing ciblée.",
+      "url": "https://hacktualites.com/cybersecurite/le-groupe-russe-apt29-exploite-les-mots-de-passe-de-lapplication-gmail-pour-contourner-lauthentification-a-deux-facteurs-2fa-dans-une-campagne-de-phishing-ciblee",
+      "published_at": "Thu, 19 Jun 2025 11:41:50 +0000"
+    },
+    {
+      "title": "Les compétences IT au cœur des stratégies du dark web",
+      "url": "https://incyber.org/article/competences-it-coeur-strategies-dark-web/",
+      "published_at": "Thu, 19 Jun 2025 09:16:55 +0000"
+    },
+    {
+      "title": "Linux : l’exploitation de ces deux failles de sécurité permet de devenir root !",
+      "url": "https://www.it-connect.fr/linux-failles-acces-root-cve-2025-6018-6019/",
+      "published_at": "Thu, 19 Jun 2025 05:23:31 +0000"
+    },
+    {
+      "title": "Vous avez passé un séjour à Center Parcs ? Vos données sont peut-être en fuite !",
+      "url": "https://www.lebigdata.fr/vous-avez-passe-un-sejour-a-center-parcs-vos-donnees-sont-peut-etre-en-fuite",
+      "published_at": "Thu, 19 Jun 2025 17:49:25 +0000"
+    },
+    {
+      "title": "L’Iran est plongé dans un black-out internet massif",
+      "url": "https://www.numerama.com/cyberguerre/1994813-liran-est-plonge-dans-un-black-out-internet-massif.html",
+      "published_at": "Thu, 19 Jun 2025 08:22:24 +0000"
+    },
+    {
+      "title": "Espagne, le black-out géant n’était pas une cyberattaque mais les causes exactes restent floues",
+      "url": "https://www.zdnet.fr/actualites/espagne-le-black-out-geant-netait-pas-une-cyberattaque-mais-les-causes-exactes-restent-floues-477538.htm#xtor=rss-1",
+      "published_at": "Thu, 19 Jun 2025 12:06:27 GMT"
+    },
+    {
+      "title": "L'Iran exhorte ses citoyens à supprimer l'application de messagerie WhatsApp de leurs smartphones",
+      "url": "https://www.developpez.net/forums/showthread.php?t=2177603&goto=newpost",
+      "published_at": "Thu, 19 Jun 2025 09:32:43 GMT"
+    },
+    {
+      "title": "mastodon.top",
+      "url": "https://mastodon.top/@d_cence/114712300643556847",
+      "published_at": "Thu, 19 Jun 2025 22:06:38 +0000"
+    },
+    {
+      "title": "pubeurope.com",
+      "url": "https://pubeurope.com/@fr/114711759954856788",
+      "published_at": "Thu, 19 Jun 2025 19:49:08 +0000"
+    },
+    {
+      "title": "mamot.fr",
+      "url": "https://mamot.fr/@benzogaga33/114709364953742301",
+      "published_at": "Thu, 19 Jun 2025 09:40:03 +0000"
+    },
+    {
+      "title": "mamot.fr",
+      "url": "https://mamot.fr/@benzogaga33/114709364914383626",
+      "published_at": "Thu, 19 Jun 2025 09:40:02 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrxt5qu2gz2r",
+      "published_at": "19 Jun 2025 15:20 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrxpss5pqq2o",
+      "published_at": "19 Jun 2025 14:20 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrxp23t5yf2v",
+      "published_at": "19 Jun 2025 14:06 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrxoqrimfz2k",
+      "published_at": "19 Jun 2025 14:01 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrxndhhuo62m",
+      "published_at": "19 Jun 2025 13:35 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrxllyavps2u",
+      "published_at": "19 Jun 2025 13:04 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrxleevmpq2p",
+      "published_at": "19 Jun 2025 13:00 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrxlbik5dg2s",
+      "published_at": "19 Jun 2025 12:58 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrxehm5ss22a",
+      "published_at": "19 Jun 2025 10:57 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrx7yrxubm2r",
+      "published_at": "19 Jun 2025 09:37 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrx7iaghjv2a",
+      "published_at": "19 Jun 2025 09:27 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrx6oawtbu2a",
+      "published_at": "19 Jun 2025 09:13 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrx6jq3zii2r",
+      "published_at": "19 Jun 2025 09:10 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrx5xujcqx2r",
+      "published_at": "19 Jun 2025 09:00 +0000"
+    },
+    {
+      "title": "bsky.app",
+      "url": "https://bsky.app/profile/valerymarchive.bsky.social/post/3lrx5q45iyj2a",
+      "published_at": "19 Jun 2025 08:56 +0000"
+    },
+    {
+      "title": "Comment le programme nucléaire iranien a été piraté : Stuxnet",
+      "url": "https://www.youtube.com/watch?v=sp6mmwckcha",
+      "published_at": "2025-06-19T15:01:21+00:00"
     }
 ]
